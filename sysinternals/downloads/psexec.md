@@ -99,7 +99,7 @@ execute, not PsExec.
 ## Examples
 
 This article I wrote [describes how PsExec
-works](https://www.itprotoday.com/compute-engines/psexec) and gives tips
+works](https://www.itprotoday.com/server-management-tools/psexec-explainer-by-mark-russinovich) and gives tips
 on how to use it:
 
 The following command launches an interactive command prompt on
